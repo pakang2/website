@@ -1,0 +1,15 @@
+/* styles.css */
+
+div {
+	color: white;
+	background-color: black;
+}
+
+.header {
+	color: blue;
+	background-color: white;
+}
+
+p {
+	color: red;
+}
